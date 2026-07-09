@@ -22,7 +22,7 @@ Triaged plan: $9,960/mo   vs   brute-force baseline: $68,000/mo   ->   85% saved
 ## Quickstart
 
 ```bash
-git clone https://github.com/madihasahar/lineage-aware-dq.git
+git clone https://github.com/MaddySah/lineage-aware-dq.git
 cd lineage-aware-dq
 pip install -r requirements.txt      # numpy only
 python -m src.demo                    # plants the faults and catches them, end to end
