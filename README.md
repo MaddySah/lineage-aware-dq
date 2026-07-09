@@ -144,8 +144,7 @@ src/
 - **Triaged, not exhaustive.** QA is not free; spend it where blast radius earns it.
 - **Conditional, not aggregate.** The dangerous faults hide in the slices and the tails.
 - **Deterministic verdicts.** A count of falsifiable checks, not a model grading itself.
-- **Lineage-driven.** What to check, and how hard, is derived from what's downstream —
-  not guessed, and not discovered by waiting for the scream.
+- **Lineage-driven.** What to check, and how hard, is derived from what's downstream.
 
 ---
 
