@@ -25,5 +25,3 @@ The honest origin story: I didn't set out to build "lineage-driven data contract
 #DataQuality #DataEngineering #MLOps #ResponsibleAI #DataObservability
 
 ---
-
-*(Put the two links — repo + writeup — in the first comment, not the post body. LinkedIn suppresses reach on posts with external links in the body.)*
